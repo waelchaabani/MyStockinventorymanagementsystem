@@ -55,7 +55,7 @@ Mystock is built with Laravel 9, Livewire, AlpineJs, and Tailwind CSS, ensuring 
 ## Demo
 
 You can check the demo here: 
-[https://test.hotechserver.com](https://test.hotechserver.com)
+
 
 
 ## Login with the following credentials
