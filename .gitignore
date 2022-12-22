@@ -13,3 +13,5 @@ Homestead.json
 /public/images/products/*
 /public/images/livewire-temp/*
 /public/storage/
+# Local Netlify folder
+.netlify
